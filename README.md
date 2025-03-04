@@ -1,9 +1,6 @@
 # Fundamentals of Natural Language Processing
 
 # Notes
-Looking at the Preview from Github may contain error in design/syntax, so it is best practice to open in Colab.
-
-# Update 14/2/2025
-
-# Update 11/2/2025
-Update more code files.
+- Chapter 1: 01, 02
+- Chapter 2: 03, 04, 05, 06
+- Chapter 3: 07, 08, 09
